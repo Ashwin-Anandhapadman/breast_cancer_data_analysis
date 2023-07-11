@@ -1,8 +1,8 @@
 # breast_cancer_data_analysis
 # Description of Project Files
   1. README.md : A file containing detailed description of the entire project.
-  2.  breast_cancer.csv : The breast cancer dataset used for the project
-  3.  Breast_Cancer_Project.sql : A file containing all the SQL queries for the Project
+  2. Breast_Cancer_Database.csv : The breast cancer dataset used for the project
+  3. Breast_Cancer_Project.sql : A file containing all the SQL queries for the Project
 
 # About the project
 In this project, I performed an exploratory analysis of 4,024 breast cancer patients with infiltrating duct and lobular carcinoma breast cancer diagnosed from 2006 – 2010.The dataset was obtained from the November,2017 update of the SEER Program of the National Cancer Institute (NCI) which provides information on population-based cancer statistics.
