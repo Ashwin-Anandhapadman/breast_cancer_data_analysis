@@ -5,7 +5,7 @@
   3. Breast_Cancer_Project_SQL_CODE.sql : A file containing all the SQL queries for the Project
 
 # About the project
-In this project, I performed an exploratory analysis of 4,024 breast cancer patients with infiltrating duct and lobular carcinoma breast cancer diagnosed from 2006 – 2010.The dataset was obtained from the November,2017 update of the SEER Program of the National Cancer Institute (NCI) which provides information on population-based cancer statistics.
+In this project, I performed an exploratory analysis of 4,024 breast cancer patients with infiltrating duct and lobular carcinoma breast cancer diagnosed from 2006 – 2010.The dataset was obtained from the November 2017 update of the SEER Program of the National Cancer Institute (NCI) which provides information on population-based cancer statistics.
 
 # SQL Queries were used to gain insights from the dataset using the questions below
 1. What is the distribution of the races affected by cancer?
